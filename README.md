@@ -8,3 +8,4 @@ Predictive Model for Bike Thefts - Python
 
 
 [Group6_Project2 Report 1.0.docx.pdf](https://github.com/mbutt19/COMP309_DataWarehousing_Bike_theft_model/files/12423709/Group6_Project2.Report.1.0.docx.pdf)
+[Developing a Predictive Machine Learning Model & Deploying it as an API - Group 6.pdf](https://github.com/mbutt19/COMP309_DataWarehousing_Bike_theft_model/files/12423714/Developing.a.Predictive.Machine.Learning.Model.Deploying.it.as.an.API.-.Group.6.pdf)
